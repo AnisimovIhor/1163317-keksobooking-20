@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ihor Anisimov](https://up.htmlacademy.ru/javascript/20/user/1163317).
-* Наставник: [Andry Lutohin](https://htmlacademy.ru/profile/id1096725).
+* Наставник: [Andry Lutohin ](https://htmlacademy.ru/profile/id1096725).
 
 ---
 
